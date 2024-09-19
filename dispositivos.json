@@ -1,0 +1,335 @@
+{
+  "f8:e4:a4:36:2c:91": {
+    "ip": "192.168.80.1",
+    "mac": "f8:e4:a4:36:2c:91",
+    "vendor": "Unknown",
+    "nombre": "Router Tienda Principal",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "90:6a:94:b9:83:3b": {
+    "ip": "192.168.80.10",
+    "mac": "90:6a:94:b9:83:3b",
+    "vendor": "hangzhou huacheng network technology co., ltd",
+    "nombre": "Tienda Camara RED",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "f8:e4:a4:36:30:81": {
+    "ip": "192.168.80.11",
+    "mac": "f8:e4:a4:36:30:81",
+    "vendor": "Unknown",
+    "nombre": "Router Tienda Repetidor",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "74:4d:bd:9d:27:74": {
+    "ip": "192.168.80.12",
+    "mac": "74:4d:bd:9d:27:74",
+    "vendor": "Unknown",
+    "nombre": "Tienda Minero",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "80:a9:97:22:8c:18": {
+    "ip": "192.168.80.25",
+    "mac": "80:a9:97:22:8c:18",
+    "vendor": "Unknown",
+    "nombre": "Desconocido",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "3a:c0:04:40:33:9f": {
+    "ip": "192.168.80.26",
+    "mac": "3a:c0:04:40:33:9f",
+    "vendor": "Unknown",
+    "nombre": "S24-Ultra 5.0",
+    "estado": "online",
+    "reintentos": 3,
+    "alertar": false
+  },
+  "30:75:12:61:a2:ca": {
+    "ip": "192.168.80.20",
+    "mac": "30:75:12:61:a2:ca",
+    "vendor": "Sony Corporation",
+    "nombre": "Tablet CamarasSony",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "28:6b:35:fe:5a:42": {
+    "ip": "192.168.80.21",
+    "mac": "28:6b:35:fe:5a:42",
+    "vendor": "Intel Corporate",
+    "nombre": "Lapto Alex",
+    "estado": "online",
+    "reintentos": 6,
+    "alertar": true
+  },
+  "e8:88:43:42:09:9a": {
+    "ip": "192.168.80.22",
+    "mac": "e8:88:43:42:09:9a",
+    "vendor": "Unknown",
+    "nombre": "Redmid Cell Tienda",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "90:6a:94:b9:89:df": {
+    "ip": "192.168.80.28",
+    "mac": "90:6a:94:b9:89:df",
+    "vendor": "hangzhou huacheng network technology co., ltd",
+    "nombre": "Tienda Camara WiFi",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "50:3e:aa:68:ed:33": {
+    "ip": "192.168.80.33",
+    "mac": "50:3e:aa:68:ed:33",
+    "vendor": "TP-LINK TECHNOLOGIES CO.,LTD.",
+    "nombre": "RaspBerry Pi3",
+    "estado": "offline",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "b8:27:eb:1f:db:cc": {
+    "ip": "192.168.80.200",
+    "mac": "b8:27:eb:1f:db:cc",
+    "vendor": "Raspberry Pi Foundation",
+    "nombre": "Server Raspberry Pi ",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "20:08:89:0f:04:68": {
+    "ip": "192.168.0.1",
+    "mac": "20:08:89:0f:04:68",
+    "vendor": "Unknown",
+    "nombre": "Router Etb",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "ac:67:84:22:f4:0c": {
+    "ip": "192.168.0.6",
+    "mac": "ac:67:84:22:f4:0c",
+    "vendor": "Google, Inc.",
+    "nombre": "Google Home Mini Nest2",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "3a:54:47:a8:75:62": {
+    "ip": "192.168.0.11",
+    "mac": "3a:54:47:a8:75:62",
+    "vendor": "Unknown",
+    "nombre": "Chromecast Cuarto Principal",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "ac:67:84:65:4e:ac": {
+    "ip": "192.168.0.7",
+    "mac": "ac:67:84:65:4e:ac",
+    "vendor": "Google, Inc.",
+    "nombre": "Google Home Mini Nest1",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "20:df:b9:8b:98:ff": {
+    "ip": "192.168.0.9",
+    "mac": "20:df:b9:8b:98:ff",
+    "vendor": "Google, Inc.",
+    "nombre": "Google Home Mini Viejo",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "1c:83:41:31:45:53": {
+    "ip": "192.168.0.200",
+    "mac": "1c:83:41:31:45:53",
+    "vendor": "Hefei Bitland Information Technology Co.Ltd",
+    "nombre": "Server Casa",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "bc:fd:0c:70:92:f8": {
+    "ip": "192.168.0.10",
+    "mac": "bc:fd:0c:70:92:f8",
+    "vendor": "Unknown",
+    "nombre": "Desconocido",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "24:e8:53:da:8f:41": {
+    "ip": "192.168.0.5",
+    "mac": "24:e8:53:da:8f:41",
+    "vendor": "LG Innotek",
+    "nombre": "Lavadora",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "68:57:2d:8c:8f:93": {
+    "ip": "192.168.0.3",
+    "mac": "68:57:2d:8c:8f:93",
+    "vendor": "Tuya Smart Inc.",
+    "nombre": "Aspiradora",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "fc:67:1f:bf:68:76": {
+    "ip": "192.168.0.4",
+    "mac": "fc:67:1f:bf:68:76",
+    "vendor": "Unknown",
+    "nombre": "Desconocido",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "b2:bc:8e:84:e0:31": {
+    "ip": "192.168.0.15",
+    "mac": "b2:bc:8e:84:e0:31",
+    "vendor": "Unknown",
+    "nombre": "Desconocido",
+    "estado": "offline",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "10:2b:41:2c:25:99": {
+    "ip": "192.168.0.14",
+    "mac": "10:2b:41:2c:25:99",
+    "vendor": "Samsung Electronics Co.,Ltd",
+    "nombre": "Tv Samsung Cuarto",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": false
+  },
+  "3c:9c:0f:fc:1e:44": {
+    "ip": "192.168.0.10",
+    "mac": "3c:9c:0f:fc:1e:44",
+    "vendor": "Intel Corporate",
+    "nombre": "Teleri LenovoT14",
+    "estado": "online",
+    "reintentos": 7,
+    "alertar": false
+  },
+  "d8:5e:d3:82:91:4f": {
+    "ip": "192.168.0.10",
+    "mac": "d8:5e:d3:82:91:4f",
+    "vendor": "Intel Corporate",
+    "nombre": "La Bestia",
+    "estado": "online",
+    "reintentos": 7,
+    "alertar": false
+  },
+  "5e:10:1d:a1:a2:c1": {
+    "ip": "192.168.0.10",
+    "mac": "5e:10:1d:a1:a2:c1",
+    "vendor": "Intel Corporate",
+    "nombre": "Celular Alex 5G",
+    "estado": "online",
+    "reintentos": 7,
+    "alertar": true
+  },
+  "ac:af:b9:f8:0a:c2": {
+    "ip": "192.168.0.10",
+    "mac": "ac:af:b9:f8:0a:c2",
+    "vendor": "Intel Corporate",
+    "nombre": "Gear S3",
+    "estado": "online",
+    "reintentos": 7,
+    "alertar": false
+  },
+  "08:7c:39:84:3f:b5": {
+    "ip": "192.168.0.10",
+    "mac": "08:7c:39:84:3f:b5",
+    "vendor": "Unknown",
+    "nombre": "Desconocido",
+    "estado": "online",
+    "reintentos": 7,
+    "alertar": true
+  },
+  "46:e2:b4:ce:c5:9b": {
+    "ip": "192.168.0.10",
+    "mac": "46:e2:b4:ce:c5:9b",
+    "vendor": "Unknown",
+    "nombre": "Desconocido",
+    "estado": "online",
+    "reintentos": 7,
+    "alertar": true
+  },
+  "0a:67:0d:2e:79:18": {
+    "ip": "192.168.80.17",
+    "mac": "0a:67:0d:2e:79:18",
+    "vendor": "Unknown",
+    "nombre": "Cell hernando",
+    "estado": "online",
+    "reintentos": 4,
+    "alertar": true
+  },
+  "48:bc:e1:cb:14:de": {
+    "ip": "192.168.80.24",
+    "mac": "48:bc:e1:cb:14:de",
+    "vendor": "Unknown",
+    "nombre": "Alex Cell 5G",
+    "estado": "offline",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "d2:bf:da:33:66:84": {
+    "ip": "192.168.80.29",
+    "mac": "d2:bf:da:33:66:84",
+    "vendor": "Unknown",
+    "nombre": "Cell Carlitos Tienda",
+    "estado": "offline",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "6e:62:e0:7b:ce:6c": {
+    "ip": "192.168.80.27",
+    "mac": "6e:62:e0:7b:ce:6c",
+    "vendor": "Unknown",
+    "nombre": "Cell Carlitos Personal ",
+    "estado": "offline",
+    "reintentos": 8,
+    "alertar": true
+  },
+  "c8:c9:a3:ab:75:90": {
+    "ip": "192.168.80.18",
+    "mac": "c8:c9:a3:ab:75:90",
+    "vendor": "Espressif Inc.",
+    "nombre": "Desconocido",
+    "estado": "online",
+    "reintentos": 9,
+    "alertar": true
+  },
+  "1a:ab:5a:2f:58:5a": {
+    "ip": "192.168.80.23",
+    "mac": "1a:ab:5a:2f:58:5a",
+    "vendor": "Unknown",
+    "nombre": "Desconocido",
+    "estado": "offline",
+    "reintentos": 3,
+    "alertar": true
+  },
+  "3c:e9:0e:d0:c8:11": {
+    "ip": "192.168.80.19",
+    "mac": "3c:e9:0e:d0:c8:11",
+    "vendor": "Unknown",
+    "nombre": "Datafono Propio",
+    "estado": "online",
+    "reintentos": 2,
+    "alertar": false
+  }
+}
